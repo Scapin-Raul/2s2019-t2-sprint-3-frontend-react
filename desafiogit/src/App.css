@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+#tabela{
+  margin: 0 1em 0 1em;  
+  width: 80%;
+}
+.linhaTabela{
+  display: flex;
+  justify-content: space-between;
+}
+
+th, tr{
+  text-align: center;
+  margin: 0 1em 0 1em;
+}
+
+*{
+  background: coral;
+}
